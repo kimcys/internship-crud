@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Aiman",
+      "lastName": "Hakim",
+      "email": "kim@gmail.com",
+      "dob": "2023-06-20T16:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "TM",
+      "duration": 6,
+      "package": 1000,
+      "id": 1
+    },
+    {
+      "firstName": "Ariff",
+      "lastName": "Hakimi",
+      "email": "kimi@gmail.com",
+      "dob": "2023-06-20T16:00:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "TM",
+      "duration": 6,
+      "package": 1000,
+      "id": 2
+    },
+    {
+      "firstName": "Nur",
+      "lastName": "Addin",
+      "email": "din@gmail.com",
+      "dob": "2023-06-20T16:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "TM",
+      "duration": 6,
+      "package": 2000,
+      "id": 3
+    },
+    {
+      "firstName": "Alyana",
+      "lastName": "Cabcy",
+      "email": "alyanacabcy@gmail.com",
+      "dob": "2023-06-20T16:00:00.000Z",
+      "gender": "Female",
+      "education": "Intermediate",
+      "company": "Mariott Bonvoy",
+      "duration": 6,
+      "package": 800,
+      "id": 4
+    }
+  ]
+}
